@@ -2,6 +2,6 @@
 
 1. Схема баз данных
 
-![Схема баз данных](img/db-Relation with password.png)
+![Схема баз данных](img/db-relation_with_password.png)
 
 
